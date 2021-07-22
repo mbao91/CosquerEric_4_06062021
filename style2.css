@@ -682,6 +682,10 @@ p {
   font-size: 12px;
 }
 
+footer p {
+  font-size: large;
+}
+
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
@@ -773,15 +777,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #964825;
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #f6fb0e !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #964825;
   color: #ffffff !important;
 }
 
@@ -799,7 +803,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #f3976c !important;
+  color: #964825 !important;
 }
 
 .ltc-atomic-tangerine:hover {
