@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.6);
 }
 
 .d-bloc .panel button:hover,
@@ -679,7 +679,32 @@ a {
 }
 
 p {
-  font-size: 12px;
+  font-size: 14px;
+}
+
+/*.col-sm-12 {
+  background-color: black;
+}*/
+.col-sm-12 img {
+  background-color: none;
+}
+.col-sm-12 p {
+  font-size: 22px;
+}
+
+q {
+  quotes: none;
+  font-size: 20px;
+  color: #524e4e;
+}
+
+cite {
+  font-size: 14px;
+  font-style: normal;
+}
+
+.what-i-do p {
+  font-size: 16px;
 }
 
 footer p {
